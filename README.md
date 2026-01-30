@@ -1,5 +1,3 @@
-📓 projects-and-postmortems
-
 This repository is a personal workspace for documenting daily progress, technical learnings, and reflections on projects and incidents. It serves as a long-term engineering journal to capture how ideas evolve, how problems are solved, and what lessons emerge over time.
 
 The goal is not just to track tasks, but to build a searchable history of thinking, decisions, and growth. 🚀
@@ -24,66 +22,36 @@ projects-and-postmortems/
 
 
 Daily logs follow a consistent path pattern:
-
 logs/YYYY/MM/YYYY-MM-DD.md
-
 
 This keeps the archive chronological and easy to navigate.
 
 ✍️ How to Log a Day
 
-Start each day by copying the template file and naming it with the current date:
-
-cp logs/TEMPLATE.md logs/YYYY/MM/YYYY-MM-DD.md
-
-
+Start each day by copying the template file and naming it with the current date.
 Fill in the entry with:
-
-What was worked on 🛠️
-
-What was learned 📚
-
-Blockers or challenges ⚠️
-
-Notes or ideas 💡
-
-Plans for the next day 🗓️
-
-Commit and push the update:
-
-git add .
-git commit -m "Log: YYYY-MM-DD"
-git push
+- What was worked on 🛠️
+- What was learned 📚
+- Blockers or challenges ⚠️
+- Notes or ideas 💡
+- Plans for the next day 🗓️
 
 🔒 Logging Guidelines
-
 All entries should follow the rules outlined in LOGGING_GUIDELINES.md.
 This includes avoiding confidential information, using aliases for sensitive projects, and keeping content professional and safe to publish.
 
 🧩 Projects and Postmortems
-
 Beyond daily logs, this repository can include:
-
-Technical project documentation 📐
-
-Architecture notes and design decisions 🏗️
-
-Incident reports and postmortems 🔍
-
-Experiments, research notes, and long-form reflections 🧠
-
+- Technical project documentation 📐
+- Architecture notes and design decisions 🏗️
+- Incident reports and postmortems 🔍
+- Experiments, research notes, and long-form reflections 🧠
 This makes the repo both a working journal and a personal knowledge base.
 
 🌱 Purpose
-
 This repository exists to:
-
-Maintain a consistent habit of reflection and documentation
-
-Capture learning in real time
-
-Track progress across projects and roles
-
-Build a long-term, searchable technical diary
-
-Over time, it becomes a record of how problems were approached, how skills evolved, and how decisions were were made.
+- Maintain a consistent habit of reflection and documentation
+- Capture learning in real time
+- Track progress across projects and roles
+- Build a long-term, searchable technical diary
+- Over time, it becomes a record of how problems were approached, how skills evolved, and how decisions were were made.
