@@ -7,7 +7,7 @@ The goal is not just to track tasks, but to build a searchable history of thinki
 The repository is organized around daily logs and supporting documentation. Each day is recorded as a standalone entry, making it easy to review past work, trace decisions, and identify patterns in learning and productivity.
 
 In addition to daily entries, this repository can host deeper project documentation and postmortems for significant technical efforts or incidents.
-
+<img src="https://grandparade.co.uk/_userfiles/uploads/Main_Photos/LOGO_v2-02.png?1591626349458" alt="" align="right" width="370">
 🗂️ Directory Structure
 projects-and-postmortems/
 │
